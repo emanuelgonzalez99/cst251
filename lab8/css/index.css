@@ -1,5 +1,5 @@
 body {
-    font-family: Helvetica, Verdana, Arial, "san serif";
+    font-family: Times, "san serif";
     background-color: plum;
     padding: 25px;
     font-size: 120%;
@@ -14,7 +14,11 @@ div#content {
 }
 
 h1, h2, h3 {
-    font-family: "Courier New", monospace;
+    font-family: Georgia, "san serif";
+    color: deeppink
+}
+    p {
+      color: Purple
 }
 
 img {

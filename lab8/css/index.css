@@ -20,6 +20,9 @@ div#content {
     p {
       color: Purple
 }
+    div.callout {
+    color: yellow;
+}
     img {
         float: right;
         width: 300px;

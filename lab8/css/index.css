@@ -13,7 +13,7 @@ div#content {
     height: 80vh;
 }
 
-h1, h2, h3 {
+ h1, h2, h3 {
     font-family: Georgia, "san serif";
     color: deeppink
 }
@@ -24,4 +24,4 @@ h1, h2, h3 {
         float: right;
         width: 300px;
         height: auto;
-        boreder-radius: 30%
+        boreder-radius: 50%

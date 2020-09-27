@@ -25,6 +25,7 @@ img {
     float: left;
     width: 800px;
     height: auto;
+    boreder-radius: 30%
 }
 
 div#image {

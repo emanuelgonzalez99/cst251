@@ -26,11 +26,3 @@ img {
     width: 200px;
     height: auto;
     boreder-radius: 30%
-}
-
-div#image {
-    padding: 40px;
-    background-color: lightpink;
-    border: solid 10px #333333;
-    border-color: deeppink;
-    height: 80vh;

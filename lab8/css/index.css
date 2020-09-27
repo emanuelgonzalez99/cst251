@@ -29,7 +29,7 @@ div#image {
     height: 80vh;
 }
     img {
-        float: left;
+        float: right;
         width: 200px;
         height: auto;
         boreder-radius: 30%

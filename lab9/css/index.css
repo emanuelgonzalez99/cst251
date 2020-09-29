@@ -1,7 +1,8 @@
 body {
-    font-family: Times, "san serif";
+    font-family: Georgia, "Sans-serif";
+    font-style: oblique;
     background-color: plum;
-    padding: 25px;
+    padding: 20px;
     font-size: 120%;
 }
 
@@ -14,15 +15,23 @@ div#content {
 }
 
  h1, h2, h3 {
-    font-family: Georgia, "san serif";
+    font-family: Verdana, "Sans-serif";
     color: deeppink
 }
     p {
       color: Purple
 
 }
-    img {
-        float: right;
-        width: 300px;
-        height: auto;
-        boreder-radius: 50%
+
+img {
+  display: block;
+  margin-right: auto;
+}
+
+img{
+  border-style: solid;
+  border-color: #BA55D3;
+  border-width: 10px;
+  border-radius: 50%
+
+}

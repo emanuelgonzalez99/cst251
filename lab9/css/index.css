@@ -1,0 +1,28 @@
+body {
+    font-family: Times, "san serif";
+    background-color: plum;
+    padding: 25px;
+    font-size: 120%;
+}
+
+div#content {
+    padding: 50px;
+    background-color: lightpink;
+    border: solid 10px #333333;
+    border-color: deeppink;
+    height: 80vh;
+}
+
+ h1, h2, h3 {
+    font-family: Georgia, "san serif";
+    color: deeppink
+}
+    p {
+      color: Purple
+
+}
+    img {
+        float: right;
+        width: 300px;
+        height: auto;
+        boreder-radius: 50%

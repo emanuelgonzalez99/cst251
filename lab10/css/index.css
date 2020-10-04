@@ -1,0 +1,37 @@
+body {
+    font-family: Georgia, "Sans-serif";
+    font-style: oblique;
+    background-color: plum;
+    padding: 20px;
+    font-size: 120%;
+}
+
+div#content {
+    margin: 10px 10px 0px 10px;
+    padding: 50px;
+    background-color: lightpink;
+    border: dotted 20px #8B008B;
+    border-color: deeppink;
+}
+
+ h1, h2, h3, h4 {
+    font-family: Verdana, "Sans-serif";
+    color: deeppink
+}
+    p {
+      color: Purple
+
+}
+
+img {
+  display: block;
+  margin-right: auto;
+}
+
+img{
+  border-style: solid;
+  border-color: #BA55D3;
+  border-width: 10px;
+  border-radius: 50%
+
+}

@@ -1,0 +1,57 @@
+body {
+    font-family: arial black, "Sans-serif";
+    font-style: oblique;
+    background-color: plum;
+    font-size: 120%;
+}
+div#content {
+    margin: 50px;
+    padding: 50px;
+    background-color: lightpink;
+    border: dotted 20px #8B008B;
+    border-color: deeppink;
+}
+ h1, h2, h3, h4, h5{
+    font-family: Verdana, "Sans-serif";
+    color: deeppink
+}
+h1 {
+  letter-spacing:3px;
+  font-size:50px;
+}
+h2 {
+  letter-spacing:3px;
+  font-size:30px;
+}
+h3 {
+  letter-spacing:3px;
+  font-size:30px;
+}
+h4 {
+  letter-spacing:3px;
+  font-size:30px;
+}
+h5 {
+  letter-spacing:3px;
+  font-size:30px;
+}
+    p {
+      color: Purple
+}
+aside {
+display: inline-block;
+min-width: 300px;
+width: 70%;
+}
+nav#link{
+  position: sticky;
+  top: 0px;
+  border: 3px dotted;
+  border-color: deeppink;
+}
+img{
+  border-style: solid;
+  border-color: #BA55D3;
+  border-width: 10px;
+  border-radius: 50%
+}

@@ -44,12 +44,6 @@ nav#link{
   border: 3px dotted;
   border-color: deeppink;
 }
-img{
-width: 150px;
-display: block;
-margin-left: auto;
-margin-right: auto;
-}
 .center-horz p{
   text-align: center;
   border: 5px solid black;
@@ -57,13 +51,13 @@ margin-right: auto;
 .floated p{
   float: right;
 }
-.center-img{
+.center-img img{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-.center-both{
+.center-both img{
   float: right;
   width: 300px;
   border: 3px solid #73AD21;

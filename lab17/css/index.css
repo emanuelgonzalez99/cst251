@@ -1,4 +1,4 @@
-body {
+main {
     font-family: arial black, "Sans-serif";
     font-style: oblique;
     background-image: linear-gradient(pink, Purple);
@@ -38,26 +38,3 @@ h4 {
   letter-spacing:3px;
   font-size:30px;
   text-shadow: 0 0 5px Purple;
-}
-h5 {
-  letter-spacing:3px;
-  font-size:30px;
-  text-shadow: 0 0 5px Purple;
-}
-    p {
-      color: Purple
-}
-nav#link{
-  position: sticky;
-  top: 0px;
-  border: 3px dotted;
-  border-color: deeppink;
-}
-img {
- filter: blur(3px) invert(0%) saturate(100%);
-}
-img {
- width:900px;
- height:200px;
- object-fit: cover;
-}

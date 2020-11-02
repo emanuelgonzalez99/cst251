@@ -1,40 +1,25 @@
-main {
-    font-family: arial black, "Sans-serif";
-    font-style: oblique;
-    background-image: linear-gradient(pink, Purple);
-    font-size: 120%;
+nav {
+  float: right;
+  padding: 15px;
+  background-color: lightpink;
 }
-div#content {
-    margin: 70px;
-    padding: 50px;
-    background-color: lightpink;
-    border: double 20px #8B008B;
-    border-radius: 25px;
-    border-color: deeppink;
+aside {
+  float: right;
+  padding: 15px;
 }
-div {
- box-shadow: 00px 0px 20px deeppink;
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%
 }
- h1, h2, h3, h4, h5{
-    font-family: Verdana, "Sans-serif";
-    color: deeppink
+footer {
+  background-color: magenta;
+  color: white;
+  text-align: center;
 }
-h1 {
-  letter-spacing:3px;
-  font-size:50px;
-  text-shadow: 0 0 5px Purple;
+header {
+  padding: 10px 15px;
+  background-color: magenta;
+  color: white;
 }
-h2 {
-  letter-spacing:3px;
-  font-size:30px;
-  text-shadow: 0 0 5px Purple;
-}
-h3 {
-  letter-spacing:3px;
-  font-size:30px;
-  text-shadow: 0 0 5px Purple;
-}
-h4 {
-  letter-spacing:3px;
-  font-size:30px;
-  text-shadow: 0 0 5px Purple;
